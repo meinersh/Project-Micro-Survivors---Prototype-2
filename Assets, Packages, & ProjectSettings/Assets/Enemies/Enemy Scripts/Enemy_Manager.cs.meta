@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 52dd98c10ccf5a24090a68c0281ec7a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - XP_Pickup: {fileID: 5595280954290557345, guid: 104064e33322618489c78861cec0dac3, type: 3}
+  - Money_Pickup: {fileID: 2359094640033401935, guid: 066442ae432c9c34d809b7de0a6e5bca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

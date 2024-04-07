@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player Bullet
+  - Enemy Bullet
+  - Basic Enemy
+  - Boss Enemy
+  - XP pickup
+  - Wall
+  - Upgrade Button
+  - Player UI
+  - Level Up UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemies
+  - Player Bullet
+  - Enemy Bullet
+  - Walls
+  - XP Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: XP
+    uniqueID: 3388632723
+    locked: 0
+  - name: Money
+    uniqueID: 1057299497
+    locked: 0
+  - name: Enemies
+    uniqueID: 3643124927
+    locked: 0
+  - name: Player
+    uniqueID: 1073235791
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3642165351
+    locked: 0
